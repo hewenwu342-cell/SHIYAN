@@ -1,0 +1,21 @@
+# ===== 编译输出（每次编译都会重新生成，不需要上传）=====
+MDK-ARM/build/
+MDK-ARM/SHIYAN/
+MDK-ARM/DebugConfig/
+*.o
+*.d
+*.crf
+*.lst
+*.map
+*.axf
+*.htm
+*.lnp
+*.dep
+*.bak
+
+# ===== Keil 个人界面布局 =====
+*.uvguix.*
+
+# ===== 系统文件 =====
+Thumbs.db
+desktop.ini
